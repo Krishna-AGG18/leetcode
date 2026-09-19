@@ -1,4 +1,4 @@
-// 6 ms | 57.8 MB
+// 6 ms | 57.5 MB
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
         List<Integer> ans = new ArrayList<>();
@@ -11,7 +11,7 @@ class Solution {
             if(nums[pos] > 0){
                 nums[pos] = -nums[pos];
             }else{
-                ans.add(Math.abs(pos +1));
+                ans.add(pos+1);
             }
         }
         
