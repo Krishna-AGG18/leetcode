@@ -1,15 +1,15 @@
-// 1 ms | 56.8 MB
+// 1 ms | 77.1 MB
 class Solution {
     public int maxSubArray(int[] nums) {
-        int currSum = 0;
-        int maxSum = Integer.MIN_VALUE;
+        int sum = 0;
+        int max = Integer.MIN_VALUE;
 
-        for(int i = 0; i< nums.length; i++){
-            if(currSum < 0) currSum = 0;
-            currSum += nums[i];
-            maxSum = Math.max(maxSum, currSum);
+        for(int num : nums){
+            if(sum < 0) sum = 0;
+            sum += num;
+            max = Math.max(max,sum);
         }
 
-        return maxSum;
+        return max;
     }
 }
