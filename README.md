@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 5 (Easy: 2, Medium: 3, Hard: 0)
+Solved: 6 (Easy: 3, Medium: 3, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -10,4 +10,5 @@ Solved: 5 (Easy: 2, Medium: 3, Hard: 0)
 | 53 | [Maximum Subarray](53-maximum-subarray/) | Medium | 2026-09-20 |
 | 80 | [Remove Duplicates from Sorted Array II](80-remove-duplicates-from-sorted-array-ii/) | Medium | 2026-09-20 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-20 |
+| 121 | [Best Time to Buy and Sell Stock](121-best-time-to-buy-and-sell-stock/) | Easy | 2026-09-20 |
 <!-- LEETHUB:TABLE:END -->
