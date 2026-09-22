@@ -11,8 +11,8 @@ Solved: 10 (Easy: 5, Medium: 5, Hard: 0)
 | 448 | [Find All Numbers Disappeared in an Array](448-find-all-numbers-disappeared-in-an-array/) | Easy | 2026-09-22 |
 | 152 | [Maximum Product Subarray](152-maximum-product-subarray/) | Medium | 2026-09-22 |
 | 53 | [Maximum Subarray](53-maximum-subarray/) | Medium | 2026-09-22 |
+| 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-09-22 |
 | 80 | [Remove Duplicates from Sorted Array II](80-remove-duplicates-from-sorted-array-ii/) | Medium | 2026-09-22 |
 | 33 | [Search in Rotated Sorted Array](33-search-in-rotated-sorted-array/) | Medium | 2026-09-22 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-22 |
-| 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-09-22 |
 <!-- LEETHUB:TABLE:END -->
