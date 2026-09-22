@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 10 (Easy: 5, Medium: 5, Hard: 0)
+Solved: 11 (Easy: 6, Medium: 5, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -15,4 +15,5 @@ Solved: 10 (Easy: 5, Medium: 5, Hard: 0)
 | 80 | [Remove Duplicates from Sorted Array II](80-remove-duplicates-from-sorted-array-ii/) | Medium | 2026-09-22 |
 | 33 | [Search in Rotated Sorted Array](33-search-in-rotated-sorted-array/) | Medium | 2026-09-22 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-22 |
+| 485 | [Max Consecutive Ones](485-max-consecutive-ones/) | Easy | 2026-09-22 |
 <!-- LEETHUB:TABLE:END -->
