@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 14 (Easy: 8, Medium: 6, Hard: 0)
+Solved: 15 (Easy: 8, Medium: 7, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -14,9 +14,10 @@ Solved: 14 (Easy: 8, Medium: 6, Hard: 0)
 | 152 | [Maximum Product Subarray](152-maximum-product-subarray/) | Medium | 2026-09-22 |
 | 53 | [Maximum Subarray](53-maximum-subarray/) | Medium | 2026-09-22 |
 | 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-09-22 |
+| 2149 | [Rearrange Array Elements by Sign](2149-rearrange-array-elements-by-sign/) | Medium | 2026-09-22 |
 | 80 | [Remove Duplicates from Sorted Array II](80-remove-duplicates-from-sorted-array-ii/) | Medium | 2026-09-22 |
 | 33 | [Search in Rotated Sorted Array](33-search-in-rotated-sorted-array/) | Medium | 2026-09-22 |
 | 136 | [Single Number](136-single-number/) | Easy | 2026-09-22 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-22 |
-| 2149 | [Rearrange Array Elements by Sign](2149-rearrange-array-elements-by-sign/) | Medium | 2026-09-22 |
+| 128 | [Longest Consecutive Sequence](128-longest-consecutive-sequence/) | Medium | 2026-09-22 |
 <!-- LEETHUB:TABLE:END -->
