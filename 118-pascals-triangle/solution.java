@@ -1,4 +1,4 @@
-// 1 ms | 42.1 MB
+// 1 ms | 43.2 MB
 class Solution {
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> triangle = new ArrayList<>();
