@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 17 (Easy: 10, Medium: 7, Hard: 0)
+Solved: 18 (Easy: 11, Medium: 7, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -20,6 +20,7 @@ Solved: 17 (Easy: 10, Medium: 7, Hard: 0)
 | 80 | [Remove Duplicates from Sorted Array II](80-remove-duplicates-from-sorted-array-ii/) | Medium | 2026-09-23 |
 | 33 | [Search in Rotated Sorted Array](33-search-in-rotated-sorted-array/) | Medium | 2026-09-23 |
 | 136 | [Single Number](136-single-number/) | Easy | 2026-09-23 |
-| 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-23 |
 | 867 | [Transpose Matrix](867-transpose-matrix/) | Easy | 2026-09-23 |
+| 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-23 |
+| 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/) | Easy | 2026-09-23 |
 <!-- LEETHUB:TABLE:END -->
