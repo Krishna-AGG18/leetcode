@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 19 (Easy: 11, Medium: 8, Hard: 0)
+Solved: 20 (Easy: 11, Medium: 9, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -19,9 +19,10 @@ Solved: 19 (Easy: 11, Medium: 8, Hard: 0)
 | 118 | [Pascal's Triangle](118-pascals-triangle/) | Easy | 2026-09-24 |
 | 2149 | [Rearrange Array Elements by Sign](2149-rearrange-array-elements-by-sign/) | Medium | 2026-09-24 |
 | 80 | [Remove Duplicates from Sorted Array II](80-remove-duplicates-from-sorted-array-ii/) | Medium | 2026-09-24 |
+| 48 | [Rotate Image](48-rotate-image/) | Medium | 2026-09-24 |
 | 33 | [Search in Rotated Sorted Array](33-search-in-rotated-sorted-array/) | Medium | 2026-09-24 |
 | 136 | [Single Number](136-single-number/) | Easy | 2026-09-24 |
 | 867 | [Transpose Matrix](867-transpose-matrix/) | Easy | 2026-09-24 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-24 |
-| 48 | [Rotate Image](48-rotate-image/) | Medium | 2026-09-24 |
+| 54 | [Spiral Matrix](54-spiral-matrix/) | Medium | 2026-09-24 |
 <!-- LEETHUB:TABLE:END -->
