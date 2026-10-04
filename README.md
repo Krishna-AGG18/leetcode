@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 27 (Easy: 13, Medium: 14, Hard: 0)
+Solved: 28 (Easy: 14, Medium: 14, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -25,11 +25,12 @@ Solved: 27 (Easy: 13, Medium: 14, Hard: 0)
 | 48 | [Rotate Image](48-rotate-image/) | Medium | 2026-10-04 |
 | 74 | [Search a 2D Matrix](74-search-a-2d-matrix/) | Medium | 2026-10-04 |
 | 33 | [Search in Rotated Sorted Array](33-search-in-rotated-sorted-array/) | Medium | 2026-10-04 |
+| 81 | [Search in Rotated Sorted Array II](81-search-in-rotated-sorted-array-ii/) | Medium | 2026-10-04 |
 | 136 | [Single Number](136-single-number/) | Easy | 2026-10-04 |
 | 54 | [Spiral Matrix](54-spiral-matrix/) | Medium | 2026-10-04 |
 | 59 | [Spiral Matrix II](59-spiral-matrix-ii/) | Medium | 2026-10-04 |
 | 69 | [Sqrt(x)](69-sqrtx/) | Easy | 2026-10-04 |
 | 867 | [Transpose Matrix](867-transpose-matrix/) | Easy | 2026-10-04 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-04 |
-| 81 | [Search in Rotated Sorted Array II](81-search-in-rotated-sorted-array-ii/) | Medium | 2026-10-04 |
+| 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-10-04 |
 <!-- LEETHUB:TABLE:END -->
