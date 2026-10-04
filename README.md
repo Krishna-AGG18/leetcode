@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 26 (Easy: 13, Medium: 13, Hard: 0)
+Solved: 27 (Easy: 13, Medium: 14, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -21,6 +21,7 @@ Solved: 26 (Easy: 13, Medium: 13, Hard: 0)
 | 118 | [Pascal's Triangle](118-pascals-triangle/) | Easy | 2026-10-04 |
 | 2149 | [Rearrange Array Elements by Sign](2149-rearrange-array-elements-by-sign/) | Medium | 2026-10-04 |
 | 80 | [Remove Duplicates from Sorted Array II](80-remove-duplicates-from-sorted-array-ii/) | Medium | 2026-10-04 |
+| 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-10-04 |
 | 48 | [Rotate Image](48-rotate-image/) | Medium | 2026-10-04 |
 | 74 | [Search a 2D Matrix](74-search-a-2d-matrix/) | Medium | 2026-10-04 |
 | 33 | [Search in Rotated Sorted Array](33-search-in-rotated-sorted-array/) | Medium | 2026-10-04 |
@@ -30,5 +31,5 @@ Solved: 26 (Easy: 13, Medium: 13, Hard: 0)
 | 69 | [Sqrt(x)](69-sqrtx/) | Easy | 2026-10-04 |
 | 867 | [Transpose Matrix](867-transpose-matrix/) | Easy | 2026-10-04 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-04 |
-| 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-10-04 |
+| 81 | [Search in Rotated Sorted Array II](81-search-in-rotated-sorted-array-ii/) | Medium | 2026-10-04 |
 <!-- LEETHUB:TABLE:END -->
