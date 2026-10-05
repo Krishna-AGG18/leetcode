@@ -1,4 +1,4 @@
-// 0 ms | 46.2 MB
+// 0 ms | 47.9 MB
 class Solution {
     public int[] searchRange(int[] nums, int target) {
         int first = findF(nums, target);
