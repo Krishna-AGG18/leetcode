@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 29 (Easy: 14, Medium: 15, Hard: 0)
+Solved: 30 (Easy: 15, Medium: 15, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -34,4 +34,5 @@ Solved: 29 (Easy: 14, Medium: 15, Hard: 0)
 | 867 | [Transpose Matrix](867-transpose-matrix/) | Easy | 2026-10-05 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-05 |
 | 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-10-05 |
+| 35 | [Search Insert Position](35-search-insert-position/) | Easy | 2026-10-05 |
 <!-- LEETHUB:TABLE:END -->
