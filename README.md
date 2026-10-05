@@ -10,6 +10,7 @@ Solved: 29 (Easy: 14, Medium: 15, Hard: 0)
 | 1752 | [Check if Array Is Sorted and Rotated](1752-check-if-array-is-sorted-and-rotated/) | Easy | 2026-10-05 |
 | 442 | [Find All Duplicates in an Array](442-find-all-duplicates-in-an-array/) | Medium | 2026-10-05 |
 | 448 | [Find All Numbers Disappeared in an Array](448-find-all-numbers-disappeared-in-an-array/) | Easy | 2026-10-05 |
+| 34 | [Find First and Last Position of Element in Sorted Array](34-find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2026-10-05 |
 | 832 | [Flipping an Image](832-flipping-an-image/) | Easy | 2026-10-05 |
 | 128 | [Longest Consecutive Sequence](128-longest-consecutive-sequence/) | Medium | 2026-10-05 |
 | 169 | [Majority Element](169-majority-element/) | Easy | 2026-10-05 |
@@ -33,5 +34,4 @@ Solved: 29 (Easy: 14, Medium: 15, Hard: 0)
 | 867 | [Transpose Matrix](867-transpose-matrix/) | Easy | 2026-10-05 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-05 |
 | 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-10-05 |
-| 34 | [Find First and Last Position of Element in Sorted Array](34-find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2026-10-05 |
 <!-- LEETHUB:TABLE:END -->
