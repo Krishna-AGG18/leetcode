@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 32 (Easy: 15, Medium: 17, Hard: 0)
+Solved: 33 (Easy: 15, Medium: 18, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -24,6 +24,7 @@ Solved: 32 (Easy: 15, Medium: 17, Hard: 0)
 | 128 | [Longest Consecutive Sequence](128-longest-consecutive-sequence/) | Medium | 2026-09-22 |
 | 136 | [Single Number](136-single-number/) | Easy | 2026-09-22 |
 | 152 | [Maximum Product Subarray](152-maximum-product-subarray/) | Medium | 2026-09-20 |
+| 153 | [Find Minimum in Rotated Sorted Array](153-find-minimum-in-rotated-sorted-array/) | Medium | 2026-10-07 |
 | 169 | [Majority Element](169-majority-element/) | Easy | 2026-09-22 |
 | 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-10-04 |
 | 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-09-22 |
