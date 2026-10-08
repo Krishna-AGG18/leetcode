@@ -10,6 +10,9 @@ class Solution {
             int mid = low + (high - low) / 2;
 
             if ((long) mid * mid <= x) {
+            // since square is less than x it can be potential soln
+            // therefore store it and move right for more bigger number to get more close to x 
+            // such that square is <= x..........
                 ans = mid;
                 low = mid + 1;
             } else {
