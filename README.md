@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 33 (Easy: 15, Medium: 18, Hard: 0)
+Solved: 34 (Easy: 15, Medium: 18, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -29,6 +29,7 @@ Solved: 33 (Easy: 15, Medium: 18, Hard: 0)
 | 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-10-04 |
 | 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-09-22 |
 | 367 | [Valid Perfect Square](367-valid-perfect-square/) | Easy | 2026-10-04 |
+| 410 | [Split Array Largest Sum](410-split-array-largest-sum/) | Hard | 2026-10-11 |
 | 442 | [Find All Duplicates in an Array](442-find-all-duplicates-in-an-array/) | Medium | 2026-09-19 |
 | 448 | [Find All Numbers Disappeared in an Array](448-find-all-numbers-disappeared-in-an-array/) | Easy | 2026-09-19 |
 | 485 | [Max Consecutive Ones](485-max-consecutive-ones/) | Easy | 2026-09-22 |
