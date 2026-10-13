@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 35 (Easy: 15, Medium: 19, Hard: 1)
+Solved: 36 (Easy: 15, Medium: 20, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -36,6 +36,7 @@ Solved: 35 (Easy: 15, Medium: 19, Hard: 1)
 | 832 | [Flipping an Image](832-flipping-an-image/) | Easy | 2026-09-27 |
 | 852 | [Peak Index in a Mountain Array](852-peak-index-in-a-mountain-array/) | Medium | 2026-10-06 |
 | 867 | [Transpose Matrix](867-transpose-matrix/) | Easy | 2026-09-23 |
+| 875 | [Koko Eating Bananas](875-koko-eating-bananas/) | Medium | 2026-10-13 |
 | 1011 | [Capacity To Ship Packages Within D Days](1011-capacity-to-ship-packages-within-d-days/) | Medium | 2026-10-12 |
 | 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/) | Easy | 2026-09-23 |
 | 1752 | [Check if Array Is Sorted and Rotated](1752-check-if-array-is-sorted-and-rotated/) | Easy | 2026-09-22 |
