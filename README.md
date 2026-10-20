@@ -1,11 +1,12 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 37 (Easy: 15, Medium: 21, Hard: 1)
+Solved: 38 (Easy: 15, Medium: 22, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-18 |
+| 2 | [Add Two Numbers](2-add-two-numbers/) | Medium | 2026-10-20 |
 | 7 | [Reverse Integer](7-reverse-integer/) | Medium | 2026-10-06 |
 | 15 | [3Sum](15-3sum/) | Medium | 2026-09-25 |
 | 33 | [Search in Rotated Sorted Array](33-search-in-rotated-sorted-array/) | Medium | 2026-09-21 |
