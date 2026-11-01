@@ -1,4 +1,4 @@
-// 8 ms | 50.6 MB
+// 9 ms | 50.4 MB
 class Solution {
     public int smallestDivisor(int[] nums, int threshold) {
         int s = 1;
