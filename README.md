@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 38 (Easy: 15, Medium: 22, Hard: 1)
+Solved: 39 (Easy: 15, Medium: 23, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -39,6 +39,7 @@ Solved: 38 (Easy: 15, Medium: 22, Hard: 1)
 | 867 | [Transpose Matrix](867-transpose-matrix/) | Easy | 2026-09-23 |
 | 875 | [Koko Eating Bananas](875-koko-eating-bananas/) | Medium | 2026-10-13 |
 | 1011 | [Capacity To Ship Packages Within D Days](1011-capacity-to-ship-packages-within-d-days/) | Medium | 2026-10-12 |
+| 1283 | [Find the Smallest Divisor Given a Threshold](1283-find-the-smallest-divisor-given-a-threshold/) | Medium | 2026-11-01 |
 | 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/) | Easy | 2026-09-23 |
 | 1752 | [Check if Array Is Sorted and Rotated](1752-check-if-array-is-sorted-and-rotated/) | Easy | 2026-09-22 |
 | 2149 | [Rearrange Array Elements by Sign](2149-rearrange-array-elements-by-sign/) | Medium | 2026-09-22 |
