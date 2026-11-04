@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 39 (Easy: 15, Medium: 23, Hard: 1)
+Solved: 40 (Easy: 15, Medium: 24, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -43,5 +43,6 @@ Solved: 39 (Easy: 15, Medium: 23, Hard: 1)
 | 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/) | Easy | 2026-09-23 |
 | 1752 | [Check if Array Is Sorted and Rotated](1752-check-if-array-is-sorted-and-rotated/) | Easy | 2026-09-22 |
 | 2149 | [Rearrange Array Elements by Sign](2149-rearrange-array-elements-by-sign/) | Medium | 2026-09-22 |
+| 2187 | [Minimum Time to Complete Trips](2187-minimum-time-to-complete-trips/) | Medium | 2026-11-04 |
 | 3723 | [Maximize Sum of Squares of Digits](3723-maximize-sum-of-squares-of-digits/) | Medium | 2026-10-14 |
 <!-- LEETHUB:TABLE:END -->
