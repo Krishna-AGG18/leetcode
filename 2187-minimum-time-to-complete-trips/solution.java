@@ -1,4 +1,4 @@
-// 51 ms | 90.7 MB
+// 48 ms | 90.7 MB
 class Solution {
 
     static boolean isvalid(int[] time, int totalTrips, long minT) {
