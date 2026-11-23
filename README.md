@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 40 (Easy: 15, Medium: 24, Hard: 1)
+Solved: 41 (Easy: 15, Medium: 25, Hard: 1)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -34,6 +34,7 @@ Solved: 40 (Easy: 15, Medium: 24, Hard: 1)
 | 442 | [Find All Duplicates in an Array](442-find-all-duplicates-in-an-array/) | Medium | 2026-09-19 |
 | 448 | [Find All Numbers Disappeared in an Array](448-find-all-numbers-disappeared-in-an-array/) | Easy | 2026-09-19 |
 | 485 | [Max Consecutive Ones](485-max-consecutive-ones/) | Easy | 2026-09-22 |
+| 540 | [Single Element in a Sorted Array](540-single-element-in-a-sorted-array/) | Medium | 2026-11-23 |
 | 832 | [Flipping an Image](832-flipping-an-image/) | Easy | 2026-09-27 |
 | 852 | [Peak Index in a Mountain Array](852-peak-index-in-a-mountain-array/) | Medium | 2026-10-06 |
 | 867 | [Transpose Matrix](867-transpose-matrix/) | Easy | 2026-09-23 |
